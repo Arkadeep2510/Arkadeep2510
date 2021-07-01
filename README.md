@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-## I am a Student, Developer and a Sports Enthusiast
+## I am a Student, a Developer and a Sports Enthusiast
 - 🔭 I’m currently working on various projects that catch my fancy
 - 🌱 I’m currently learning whatever I find after waking up in the morning
 - 👯 I’m looking to collaborate on Web Development or Mechanical Analysis
