@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <a align="left" href="https://twitter.com/Arkadeep2510?s=08" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Arkadeep2510" width="50px"/></a>
 <a align="left" align="left" href="https://open.spotify.com/user/31bd4t6y7cnjwtdyxsfyfffrw5jq?si=1b2faf9837954ed3" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" alt="Arkadeep2510" width="50px"/></a>
 <a align="left" href="https://www.youtube.com/channel/UCkaEEpO0BmxrRiggvfDRklQ" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="Arkadeep2510" width="50px"/></a>
+<a align="left" href="https://discord.gg/7AxHDpcd" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" alt="Arkadeep2510" width="50px"/></a>
 
 </br>
 </br>
