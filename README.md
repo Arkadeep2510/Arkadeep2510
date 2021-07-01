@@ -13,19 +13,28 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Web Development or Mechanical Analysis
 - 🤔 I’m looking for help with Web Developement
 - 💬 Ask me about anything
-- 📫 How to reach me: Send a message on LinkedIn (Arkadeep Mukherjee)
+- 📫 How to reach me: Send a message on LinkedIn 
 - 😄 Interests: Sports and Multimedia 
 - ⚡ Fun fact: A lot can happen over a Repository
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-
-    
+<p align="centre"> <a href="https://www.linkedin.com/in/arkadeep-mukherjee-a6b3a91a3/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Arkadeep2510" width="22px"/></a>
+<a align="left" href="https://www.instagram.com/arkadeep2510/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Arkadeep2510" width="22px"/></a>
+<a align="left" href="https://www.facebook.com/arkadeep.mukherjee.79/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Arkadeep2510" width="22px"/></a>
+<a align="left" href="https://twitter.com/Arkadeep2510?s=08" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Arkadeep2510" width="22px"/></a>
+<a align="left" align="left" href="https://open.spotify.com/user/31bd4t6y7cnjwtdyxsfyfffrw5jq?si=1b2faf9837954ed3" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" alt="Arkadeep2510" width="22px"/></a>
+<a align="left" href="https://www.youtube.com/channel/UCkaEEpO0BmxrRiggvfDRklQ" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="Arkadeep2510" width="22px"/></a>  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Arkadeep2510&show_icons=true&title_color=0a1172&icon_color=ffa500&bg_color=fcf4f3&border_radius=10px&border_color=0a1172" alt="Arkadeep2510" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkadeep2510&langs_count=8&title_color=0a1172&icon_color=ffa500&bg_color=fcf4f3&border_radius=10px&border_color=0a1172" alt="Arkadeep2510" /></p>
+
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkadeep2510&langs_count=8&title_color=0a1172&icon_color=ffa500&bg_color=fcf4f3&border_radius=10px&border_color=0a1172&layout=compact" alt="Arkadeep2510" /></p>
 -->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Arkadeep2510&background=FCF4F3&stroke=0A1172&currStreakNum=ED7014&sideLabels=0A1172&border=0A1172&dates=3944BC&sideNums=0A1172&borderRadius=10px" alt="Arkadeep2510" /></p>
+
+<a align="left" href="https://open.spotify.com/user/90c3d379852442159cec8d6cf6d1fe31" target="blank"><img align="left" src="https://spotify-now-playing-beta.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+
 
 
