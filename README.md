@@ -55,6 +55,6 @@ Here are some ideas to get you started:
 -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Arkadeep2510&background=FCF4F3&stroke=0A1172&currStreakNum=ED7014&sideLabels=0A1172&border=0A1172&dates=3944BC&sideNums=0A1172&borderRadius=10px" alt="Arkadeep2510" /></p>
 
-## Spotify Now Playing🎧:
+<!--## Spotify Now Playing🎧:-->
 
 
